@@ -7,7 +7,7 @@ Most of my time goes into understanding how code works, practicing through small
 
 
 
-Technical Skills
+Technical Skills :
 
 - Languages: Python, C++ (beginner)
 - Frameworks: Django (learning)
@@ -16,7 +16,7 @@ Technical Skills
 
 
 
-Projects
+Projects :
 
 - Django Word Counter :  
   A simple web app that counts the number of words from user input. Made with Django.  

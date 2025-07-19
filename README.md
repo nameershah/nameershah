@@ -18,10 +18,6 @@ Technical Skills :
 
 Projects :
 
-- Django Word Counter :  
-  A simple web app that counts the number of words from user input. Made with Django.  
-  GitHub: https://github.com/nameershah/django-word-counter
-
 - First WebApp : 
   A practice Django project where I explored views, templates, and URLs.  
   GitHub: https://github.com/nameershah/First_WebApp

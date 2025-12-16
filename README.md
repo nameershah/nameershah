@@ -23,6 +23,8 @@ Focused on architecting scalable AI solutions and production-grade Large Languag
 * **Concept:** PDF & Audio RAG system with intelligent LLM routing for latency vs. depth.
 * **Tech:** Gemini Pro/Flash, RAG, Gradio.
 * **Impact:** Hackathon demo with 120+ users.
+* **[🔴 Live Demo](https://aistudio.google.com/apps/drive/1jX61pzQUuGnbiUBhk9DMI8kKxag1GrDz?showPreview=true&showAssistant=true&fullscreenApplet=true)**
+
 
 ---
 

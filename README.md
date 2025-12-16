@@ -1,5 +1,3 @@
-Portfolio: https://nameershah.github.io/portfolio/
-
 # Muhammad Nameer Shah — AI Engineer
 
 Focused on architecting scalable AI solutions and production-grade Large Language Model pipelines. I build systems that optimize reasoning capabilities through agentic workflows and RAG (Retrieval-Augmented Generation).

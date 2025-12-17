@@ -36,7 +36,7 @@ Focused on architecting scalable AI solutions and production-grade Large Languag
 
 **Live Demo:** [View Demo](https://aistudio.google.com/apps/drive/1jX61pzQUuGnbiUBhk9DMI8kXag1GrDz?showPreview=true&showAssistant=true&fullscreenApplet=true)
 
-**Code:** [GitHub Repository](https://github.com/nameershah/MentorAI)
+**The Demo Video:** [GitHub Repository](https://youtu.be/8zuhFf6jrGg?si=tjAicFFXT4pQ4yLZ)
 
 ## Technical Focus
 

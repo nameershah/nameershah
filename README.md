@@ -17,8 +17,17 @@
     <a href="https://huggingface.co/muhammadnameershah">
       <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
     </a>
+    <a href="https://github.com/nameershah">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
     <a href="mailto:smns3960@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://nameershah.github.io/portfolio/">
+      <img src="https://img.shields.io/badge/🌐_Portfolio_Website-Visit_Now-58A6FF?style=for-the-badge" />
     </a>
   </p>
 </div>
@@ -40,9 +49,10 @@
 
 | **Project** | **Description** | **Tech Stack** | **Links** |
 | :--- | :--- | :--- | :--- |
-| **ArcFlow**<br>*(January 2026)* | **Trustless Financial Kernel**<br>Deterministic firewall between Gemini & Arc Network. Prevents hallucinations in financial transactions. | `Arc Network` `USDC` `Gemini` `Policy Engine` | [**Live App**](https://arcflow-kernel.vercel.app/) |
-| **MentorAI**<br>*(December 2025)* | **Multimodal Study Assistant**<br>Layered RAG pipeline with intelligent routing (Pro/Flash). Winner: Google DeepMind Hackathon. | `Gemini 1.5 Pro` `Vector DB` `React` | [**Live App**](https://aistudio.google.com/apps/drive/1jX61pzQUuGnbiUBhk9DMI8kKxag1GrDz) |
-| **TaleemAI**<br>*(November 2025)* | **Self-Healing Agentic Tutor**<br>Multi-agent system with H.E.A.R.L. routing logic switching between Groq & Gemini. | `Groq` `Llama 3` `Streamlit` | [**Live App**](https://huggingface.co/spaces/AlphaAwaken/TaleemAI) |
+| **ArcFlow**<br>*(January 2026)* | **Trustless Financial Kernel**<br>Deterministic firewall between Gemini & Arc Network. Prevents hallucinations in financial transactions. | `Arc Network` `USDC` `Gemini` `TypeScript` | [**Live App**](https://arcflow-kernel.vercel.app/) • [**Code**](https://github.com/nameershah/arcflow-kernel) |
+| **MentorAI**<br>*(December 2025)* | **Multimodal Study Assistant**<br>Layered RAG pipeline with intelligent routing (Pro/Flash). Winner: Google DeepMind Hackathon. | `Gemini 1.5 Pro` `RAG` `React` `TypeScript` | [**Live App**](https://aistudio.google.com/apps/drive/1jX61pzQUuGnbiUBhk9DMI8kKxag1GrDz) • [**Code**](https://github.com/nameershah/MentorAI) |
+| **Meta Innovation AI**<br>*(December 2025)* | **Agentic Innovation Pipeline**<br>Stage-driven workflow (Ideation → Validation → Execution) with structured JSON schemas. | `Gemini` `Python` `Gradio` `HF Spaces` | [**Live App**](https://huggingface.co/spaces/AlphaAwaken/Meta-Innovation-AI-MIA) • [**Code**](https://github.com/nameershah/Meta-Innovation-AI-MIA) |
+| **TaleemAI**<br>*(November 2025)* | **Self-Healing Agentic Tutor**<br>Multi-agent system with H.E.A.R.L. routing logic switching between Groq & Gemini. | `Groq` `Llama 3` `Streamlit` `Python` | [**Live App**](https://huggingface.co/spaces/AlphaAwaken/TaleemAI) • [**Code**](https://github.com/nameershah/TaleemAI) |
 
 ---
 

@@ -1,50 +1,60 @@
-# Muhammad Nameer Shah — AI Engineer
+<div align="center">
+  
+  <h1 style="font-size: 3rem; font-weight: bold;">Muhammad Nameer Shah</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Agentic+%26+Multimodal+Systems;Building+Trustless+Financial+Kernels;Engineering+Explicit+Control+Flow;Open+Source+Agentic+Commerce" alt="Typing SVG" />
+  </a>
+  
+  <p align="center">
+    <b>Agentic AI</b> • <b>Deterministic Routing</b> • <b>RAG Pipelines</b> • <b>Arc Network</b>
+  </p>
 
-### Agentic & Multimodal Systems | Deterministic Control Flow | RAG
-
-Focused on architecting **scalable agentic systems** where LLM routing, reasoning depth, and failure recovery are explicitly engineered. I build production-grade pipelines that bridge the gap between probabilistic AI (Gemini/Llama) and deterministic execution (Arc Network).
+  <p>
+    <a href="https://www.linkedin.com/in/muhammad-nameer-shah">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://huggingface.co/muhammadnameershah">
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    </a>
+    <a href="mailto:smns3960@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### Engineering Arsenal
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
-![Arc Network](https://img.shields.io/badge/Arc_Network-000000?style=for-the-badge&logo=ethereum&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+| **Core AI & Agents** | **Full Stack & Cloud** | **Tools & Frameworks** |
+| :--- | :--- | :--- |
+| ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) | ![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
+| ![Llama 3](https://img.shields.io/badge/Llama_3-0497FF?style=flat-square&logo=meta&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=firebase&logoColor=white) | ![Arc Network](https://img.shields.io/badge/Arc_Network-000000?style=flat-square&logo=ethereum&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ![Hugging Face](https://img.shields.io/badge/HF_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
 
 ---
 
-## 🚀 Featured Engineering Work
+### Featured Deployments
 
-| Project | Type | Description | Tech Stack |
+| **Project** | **Description** | **Tech Stack** | **Links** |
 | :--- | :--- | :--- | :--- |
-| **[ArcFlow](https://arcflow-kernel.vercel.app/)** | **New** | **Trustless Financial Kernel:** A deterministic security firewall between Google Gemini and the Arc Network. Enforces policy engines to prevent LLM hallucinations during financial transactions. | **Arc Network, Gemini, USDC, Policy Engine** |
-| **[MentorAI](https://aistudio.google.com/apps/drive/1jX61pzQUuGnbiUBhk9DMI8kKxag1GrDz)** | **Winner** | **Multimodal Study Assistant:** A layered RAG system with intelligent routing between Gemini Pro (Reasoning) and Flash (Speed). *Winner: Google DeepMind Vibe Coding Hackathon.* | **Gemini 1.5 Pro, Vector DB, React** |
-| **[TaleemAI](https://huggingface.co/spaces/AlphaAwaken/TaleemAI)** | **Live** | **Self-Healing Tutor:** Multi-agent system with deterministic fallback logic and dynamic routing (H.E.A.R.L.) switching between Groq (Llama 3) and Gemini. | **Groq, Llama 3, Streamlit** |
-| **[Meta Innovation AI](https://huggingface.co/spaces/AlphaAwaken/Meta-Innovation-AI-MIA)** | **Live** | **Innovation Pipeline:** Automates the ideation loop using structured JSON control flow to reduce hallucinations in open-ended tasks. | **JSON Schemas, Agents** |
+| **ArcFlow**<br>*(January 2026)* | **Trustless Financial Kernel**<br>Deterministic firewall between Gemini & Arc Network. Prevents hallucinations in financial transactions. | `Arc Network` `USDC` `Gemini` `Policy Engine` | [**Live App**](https://arcflow-kernel.vercel.app/) |
+| **MentorAI**<br>*(December 2025)* | **Multimodal Study Assistant**<br>Layered RAG pipeline with intelligent routing (Pro/Flash). Winner: Google DeepMind Hackathon. | `Gemini 1.5 Pro` `Vector DB` `React` | [**Live App**](https://aistudio.google.com/apps/drive/1jX61pzQUuGnbiUBhk9DMI8kKxag1GrDz) |
+| **TaleemAI**<br>*(November 2025)* | **Self-Healing Agentic Tutor**<br>Multi-agent system with H.E.A.R.L. routing logic switching between Groq & Gemini. | `Groq` `Llama 3` `Streamlit` | [**Live App**](https://huggingface.co/spaces/AlphaAwaken/TaleemAI) |
 
 ---
 
-## 🏆 Certifications
+### Recent Certifications
 
-* **Agentic Commerce on Arc** — *lablab.ai (Jan 2026)*
-* **Generative AI Application Developer (Top Performer)** — *NCEAC / HEC (Dec 2025)*
-* **OCI 2025 Certified Generative AI Professional** — *Oracle Cloud (Oct 2025)*
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=nameershah&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nameershah&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nameershah&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+* **Agentic Commerce on Arc** — *lablab.ai (January 2026)*
+* **Generative AI App Developer (Top Performer)** — *NCEAC (December 2025)*
+* **OCI Certified Generative AI Professional** — *Oracle (October 2025)*
 
 ---
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammad-nameer-shah/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:smns3960@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nameershah&theme=radical&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameershah&theme=radical&hide_border=true&layout=compact" height="150" alt="languages graph" />
+</div>

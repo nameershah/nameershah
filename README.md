@@ -56,14 +56,6 @@
 
 ---
 
-### Recent Certifications
-
-* **Agentic Commerce on Arc** — *lablab.ai (January 2026)*
-* **Generative AI App Developer (Top Performer)** — *NCEAC (December 2025)*
-* **OCI Certified Generative AI Professional** — *Oracle (October 2025)*
-
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nameershah&theme=radical&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameershah&theme=radical&hide_border=true&layout=compact" height="150" alt="languages graph" />

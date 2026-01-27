@@ -1,64 +1,50 @@
 # Muhammad Nameer Shah — AI Engineer
 
-Focused on architecting scalable AI solutions and production-grade Large Language Model pipelines. I build systems that optimize reasoning capabilities through agentic workflows and RAG (Retrieval-Augmented Generation).
+### Agentic & Multimodal Systems | Deterministic Control Flow | RAG
 
-## Portfolio
+Focused on architecting **scalable agentic systems** where LLM routing, reasoning depth, and failure recovery are explicitly engineered. I build production-grade pipelines that bridge the gap between probabilistic AI (Gemini/Llama) and deterministic execution (Arc Network).
 
-[https://nameershah.github.io/portfolio/](https://nameershah.github.io/portfolio/)
+---
 
-## Featured Projects
+## 🛠️ Tech Stack & Tools
 
-### TaleemAI — Self-Healing Agentic Tutor
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+![Arc Network](https://img.shields.io/badge/Arc_Network-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Concept:** Multi-agent tutor with deterministic fallback and memory
-**Tech:** Gemini, Groq (LLaMA 3), Streamlit, Hugging Face
-**Impact:** 100+ users with recurring weekly usage
+---
 
-**Live Demo:** [View Demo](https://huggingface.co/spaces/AlphaAwaken/TaleemAI)
+## 🚀 Featured Engineering Work
 
-**Code:** [GitHub Repository](https://github.com/nameershah/TaleemAI)
+| Project | Type | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **[ArcFlow](https://arcflow-kernel.vercel.app/)** | **New** | **Trustless Financial Kernel:** A deterministic security firewall between Google Gemini and the Arc Network. Enforces policy engines to prevent LLM hallucinations during financial transactions. | **Arc Network, Gemini, USDC, Policy Engine** |
+| **[MentorAI](https://aistudio.google.com/apps/drive/1jX61pzQUuGnbiUBhk9DMI8kKxag1GrDz)** | **Winner** | **Multimodal Study Assistant:** A layered RAG system with intelligent routing between Gemini Pro (Reasoning) and Flash (Speed). *Winner: Google DeepMind Vibe Coding Hackathon.* | **Gemini 1.5 Pro, Vector DB, React** |
+| **[TaleemAI](https://huggingface.co/spaces/AlphaAwaken/TaleemAI)** | **Live** | **Self-Healing Tutor:** Multi-agent system with deterministic fallback logic and dynamic routing (H.E.A.R.L.) switching between Groq (Llama 3) and Gemini. | **Groq, Llama 3, Streamlit** |
+| **[Meta Innovation AI](https://huggingface.co/spaces/AlphaAwaken/Meta-Innovation-AI-MIA)** | **Live** | **Innovation Pipeline:** Automates the ideation loop using structured JSON control flow to reduce hallucinations in open-ended tasks. | **JSON Schemas, Agents** |
 
-### Meta Innovation AI (MIA) — Agentic Innovation Pipeline
+---
 
-**Concept:** Automates the innovation loop (Ideation → Validation → Execution) using structured JSON control flow
-**Tech:** Gemini, JSON Schemas, Hugging Face Spaces
-**Impact:** Winning hackathon submission
+## 🏆 Certifications
 
-**Live Demo:** [View Demo](https://huggingface.co/spaces/AlphaAwaken/Meta-Innovation-AI-MIA)
+* **Agentic Commerce on Arc** — *lablab.ai (Jan 2026)*
+* **Generative AI Application Developer (Top Performer)** — *NCEAC / HEC (Dec 2025)*
+* **OCI 2025 Certified Generative AI Professional** — *Oracle Cloud (Oct 2025)*
 
-**Code:** [GitHub Repository](https://github.com/nameershah/Meta-Innovation-AI-MIA)
+---
 
-### MentorAI — Multimodal Study Assistant
+## 📊 GitHub Stats
 
-**Concept:** PDF & Audio RAG system with intelligent LLM routing for latency vs. depth
-**Tech:** Gemini Pro/Flash, RAG, Gradio
-**Impact:** Hackathon demo with 120+ users
-
-**Live Demo:** [View Demo](https://aistudio.google.com/apps/drive/1jX61pzQUuGnbiUBhk9DMI8kXag1GrDz?showPreview=true&showAssistant=true&fullscreenApplet=true)
-
-**The Demo Video:** [The Demo Video](https://youtu.be/8zuhFf6jrGg?si=tjAicFFXT4pQ4yLZ)
-
-## Technical Focus
-
-* Agentic AI: Designing multi-agent architectures for complex task decomposition and autonomous reasoning
-* LLM Orchestration: Optimizing query routing between models to balance latency and cognitive performance
-* Full-Stack AI: End-to-end deployment of ML pipelines, from data ingestion to API integration
-
-## Core Stack
-
-**Languages:** Python, SQL
-**Frameworks:** PyTorch, LangChain, Hugging Face, FastAPI
-**Infrastructure:** Docker, Cloud Deployment (AWS/GCP), MLOps practices
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/muhammad-nameer-shah/) | [Email](mailto:smns3960@gmail.com)
-
-# Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nameershah&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nameershah&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nameershah&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammad-nameer-shah/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:smns3960@gmail.com)

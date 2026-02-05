@@ -50,10 +50,3 @@
 | **MentorAI**<br>*(Dec 2025)* | **Multimodal Study Assistant**<br>Layered RAG pipeline with intelligent routing (Pro/Flash). Winner: Google DeepMind Hackathon. | `Gemini 1.5 Pro` `RAG` `React` `TypeScript` | [**Live App**](https://aistudio.google.com/apps/drive/1jX61pzQUuGnbiUBhk9DMI8kKxag1GrDz) • [**Code**](https://github.com/nameershah/MentorAI) |
 | **Meta Innovation AI**<br>*(Dec 2025)* | **Agentic Innovation Pipeline**<br>Stage-driven workflow (Ideation → Validation → Execution) with structured JSON schemas. | `Gemini` `Python` `Gradio` `HF Spaces` | [**Live App**](https://huggingface.co/spaces/AlphaAwaken/Meta-Innovation-AI-MIA) • [**Code**](https://github.com/nameershah/Meta-Innovation-AI-MIA) |
 | **TaleemAI**<br>*(Nov 2025)* | **Self-Healing Agentic Tutor**<br>Multi-agent system with H.E.A.R.L. routing logic switching between Groq & Gemini. | `Groq` `Llama 3` `Streamlit` `Python` | [**Live App**](https://huggingface.co/spaces/AlphaAwaken/TaleemAI) • [**Code**](https://github.com/nameershah/TaleemAI) |
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nameershah&theme=radical&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameershah&theme=radical&hide_border=true&layout=compact" height="150" alt="languages graph" />
-</div>

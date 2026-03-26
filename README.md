@@ -1,17 +1,15 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=220&section=header&text=Muhammad%20Nameer%20Shah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20—%20Agentic%20%26%20Multimodal%20Systems&descAlignY=58&descColor=a0c4ff&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Muhammad%20Nameer%20Shah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20—%20Agentic%20%26%20Multimodal%20Systems&descAlignY=58&descColor=a0c4ff&descSize=20" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+Systems;Deterministic+Routing+%26+Financial+Kernels;RAG+Pipelines+%26+Multimodal+AI;Hackathon+Winner+%7C+Open+Source+Builder" />
-</a>
+<!-- Typing Animation (FIXED WIDTH + RELIABLE PARAMS) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems;Deterministic+Routing+%26+Financial+Kernels;RAG+Pipelines+%26+Multimodal+AI;Hackathon+Winner+%7C+Open+Source+Builder" />
 
 <br/>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=nameershah&color=58A6FF&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=nameershah&color=58A6FF&style=flat-square" />
 
 <br/><br/>
 
@@ -21,7 +19,7 @@
 </a>
 &nbsp;
 <a href="https://huggingface.co/muhammadnameershah">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
 &nbsp;
 <a href="mailto:smns3960@gmail.com">
@@ -29,7 +27,7 @@
 </a>
 &nbsp;
 <a href="https://nameershah.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </div>
@@ -56,11 +54,11 @@
 
 | AI & Agents | Full Stack & Cloud | Tools & Frameworks |
 | :---: | :---: | :---: |
-| ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) | ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
-| ![Llama](https://img.shields.io/badge/Llama_3-0497FF?style=flat-square&logo=meta&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=flat-square&logo=firebase&logoColor=white) | ![Arc](https://img.shields.io/badge/Arc_Network-000000?style=flat-square&logo=ethereum&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ![HF](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![Next](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white) |
+| ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) |
+| ![Llama](https://img.shields.io/badge/Llama-0497FF?style=flat-square&logo=meta&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square) | ![Ethereum](https://img.shields.io/badge/Arc%20Network-000000?style=flat-square&logo=ethereum&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
 
 </div>
 
@@ -70,24 +68,24 @@
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Flux OS** `Feb 2026` | Recursive multi-agent system for autonomous supply chains with negotiation, arbitrage, and on-chain settlement. Enforced by a deterministic safety kernel. Hack-Nation '26 Winner | `Multi-Agent` `FastAPI` `Next.js` `Python` `TypeScript` | [Code](https://github.com/nameershah/flux-os) |
-| **ArcFlow Kernel** `Jan 2026` | Deterministic financial safety layer preventing hallucinated DeFi actions using strict policy enforcement. | `Arc` `USDC` `Gemini` `TypeScript` | [Live](https://arcflow-kernel.vercel.app/) · [Code](https://github.com/nameershah/arcflow-kernel) |
-| **n8n Automation Suite** `Feb 2026` | Production-ready AI automation workflows including discovery, content generation, and engagement bots. | `n8n` `Groq` `LLaMA` `Discord` | [Code](https://github.com/nameershah/n8n-discord-automation-templates) |
-| **MentorAI** `Dec 2025` | Multimodal RAG assistant with intelligent routing between models for optimized latency and reasoning. Google DeepMind Hackathon Winner | `Gemini` `RAG` `React` `TypeScript` | [Live](https://aistudio.google.com/apps/drive/1jX61pzQUuGnbiUBhk9DMI8kKxag1GrDz) · [Code](https://github.com/nameershah/MentorAI) |
-| **Meta Innovation AI** `Dec 2025` | End-to-end agentic system for idea generation, validation, and execution using structured reasoning pipelines. | `Gemini` `Python` `Gradio` | [Live](https://huggingface.co/spaces/AlphaAwaken/Meta-Innovation-AI-MIA) · [Code](https://github.com/nameershah/Meta-Innovation-AI-MIA) |
-| **TaleemAI** `Nov 2025` | Adaptive AI tutor with dynamic model switching based on query complexity. 100+ active users | `Groq` `Llama` `Streamlit` | [Live](https://huggingface.co/spaces/AlphaAwaken/TaleemAI) · [Code](https://github.com/nameershah/TaleemAI) |
+| **Flux OS** `Feb 2026` | Recursive multi-agent system for autonomous supply chains with deterministic safety enforcement. Hack-Nation '26 Winner | `Multi-Agent` `FastAPI` `Next.js` | [Code](https://github.com/nameershah/flux-os) |
+| **ArcFlow Kernel** `Jan 2026` | Deterministic financial safety layer preventing hallucinated DeFi actions. | `Arc` `Gemini` `TypeScript` | [Live](https://arcflow-kernel.vercel.app/) · [Code](https://github.com/nameershah/arcflow-kernel) |
+| **n8n Automation Suite** `Feb 2026` | AI workflow automations for discovery, generation, and engagement. | `n8n` `Groq` `LLaMA` | [Code](https://github.com/nameershah/n8n-discord-automation-templates) |
+| **MentorAI** `Dec 2025` | Multimodal RAG assistant with intelligent model routing. DeepMind Hackathon Winner | `Gemini` `RAG` | [Live](https://aistudio.google.com/apps/drive/1jX61pzQUuGnbiUBhk9DMI8kKxag1GrDz) · [Code](https://github.com/nameershah/MentorAI) |
+| **Meta Innovation AI** `Dec 2025` | End-to-end agentic system for structured innovation pipelines. | `Gemini` `Python` | [Live](https://huggingface.co/spaces/AlphaAwaken/Meta-Innovation-AI-MIA) · [Code](https://github.com/nameershah/Meta-Innovation-AI-MIA) |
+| **TaleemAI** `Nov 2025` | Adaptive AI tutor with dynamic model switching. 100+ users | `Groq` `Llama` | [Live](https://huggingface.co/spaces/AlphaAwaken/TaleemAI) · [Code](https://github.com/nameershah/TaleemAI) |
 
 ---
 
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nameershah&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nameershah&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameershah&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=nameershah&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=nameershah&theme=github-dark&hide_border=true" />
 </div>
 
 <br/>
@@ -112,6 +110,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer" />
 
 </div>

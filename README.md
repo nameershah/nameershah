@@ -4,7 +4,7 @@
 <p><strong>AI Engineer — Agentic & Multimodal Systems</strong></p>
 
 <p>
-Building agentic AI systems • Deterministic routing • RAG pipelines • Multimodal AI
+Building agentic AI systems · Deterministic routing · RAG pipelines · Multimodal AI
 </p>
 
 <br/>
@@ -33,9 +33,9 @@ Building agentic AI systems • Deterministic routing • RAG pipelines • Mult
 
 Builder at the frontier of agentic AI — designing systems where LLMs act as the intelligence layer, never the control layer.
 
-- Currently Building: Flux OS — a recursive multi-agent orchestrator for autonomous supply chains  
+- Currently building: **Flux OS** — a recursive multi-agent orchestrator for autonomous supply chains  
 - Achievements: Hack-Nation '26 · Google DeepMind Hackathon Winner  
-- Focus Areas: Deterministic policy engines, cross-chain settlement, multi-agent coordination  
+- Focus areas: Deterministic policy engines, cross-chain settlement, multi-agent coordination  
 - Expertise: Agentic pipelines, RAG systems, financial AI safety, Arc Network  
 - Principle: No LLM interacts directly with private keys — deterministic safeguards protect all sensitive operations  
 
@@ -43,13 +43,21 @@ Builder at the frontier of agentic AI — designing systems where LLMs act as th
 
 ## Engineering Stack
 
-| AI & Agents | Full Stack & Cloud | Tools & Frameworks |
-| :---: | :---: | :---: |
-| Python | React | LangChain |
-| Llama | TypeScript | Docker |
-| RAG Systems | Arc Network | n8n |
-| FastAPI | Streamlit | Hugging Face |
-| Gemini | Next.js | Groq |
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+</div>
 
 ---
 

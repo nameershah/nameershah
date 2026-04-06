@@ -28,6 +28,8 @@
 
 <br/><br/>
 
+<img width="100%" src="https://raw.githubusercontent.com/nameershah/nameershah/output/github-contribution-grid-snake-dark.svg" />
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:6e40c9&height=80&section=footer" />
 
 </div>

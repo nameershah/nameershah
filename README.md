@@ -1,3 +1,7 @@
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=nameershah&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
+</div>
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:58A6FF&height=140&section=header&text=Muhammad%20Nameer%20Shah&fontSize=36&fontColor=fff&fontAlignY=45" />

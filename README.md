@@ -30,10 +30,63 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-<br/><br/>
+</div>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,fastapi,django,nodejs,docker,git,linux&theme=dark" />
+
+</div>
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nameershah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameershah&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=nameershah&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 3D Contribution Graph
+
+<div align="center">
+
+![3D contribution graph](./profile-3d-contrib/profile-night-view.svg)
+
+</div>
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/nameershah/nameershah/output/github-contribution-grid-snake-dark.svg" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:6e40c9&height=80&section=footer" />
+</div>
+
+<br/>
+
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nameershah&theme=darkhub&no-frame=true&row=1&column=7" />
 
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:6e40c9&height=80&section=footer" />

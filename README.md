@@ -34,8 +34,6 @@
 
 <br/>
 
-## Contribution Snake
-
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/nameershah/nameershah/output/github-contribution-grid-snake-dark.svg" />

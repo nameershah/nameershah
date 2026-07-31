@@ -3,6 +3,11 @@
 </div>
 
 <div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/nameershah/nameershah/main/dark.svg#gh-dark-mode-only" alt="Premium animated profile banner dark" />
+  <img width="100%" src="https://raw.githubusercontent.com/nameershah/nameershah/main/light.svg#gh-light-mode-only" alt="Premium animated profile banner light" />
+</div>
+
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:58A6FF&height=140&section=header&text=Muhammad%20Nameer%20Shah&fontSize=36&fontColor=fff&fontAlignY=45" />
 

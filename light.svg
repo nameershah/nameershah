@@ -145,16 +145,16 @@
         <g transform="translate(0 0)">
           <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0;0 6;0 0" dur="7s" repeatCount="indefinite"/>
           <text x="70" y="120" font-size="18" fill="url(#asciiGrad)" letter-spacing="1.3">
-            <tspan x="70" dy="0" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.25s" fill="freeze"/>⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣤⣄⠀⠀⠀⠀⠀⠀</tspan>
-            <tspan x="70" dy="24" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.25s" fill="freeze"/>⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀</tspan>
-            <tspan x="70" dy="24" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="0.25s" fill="freeze"/>⠀⠀⠀⢠⣿⣿⠟⠛⠛⠛⠻⣿⣿⣷⠀⠀⠀⠀</tspan>
-            <tspan x="70" dy="24" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.25s" fill="freeze"/>⠀⠀⠀⣿⣿⠃⣴⣿⣿⣿⣦⠘⣿⣿⠀⠀⠀⠀</tspan>
-            <tspan x="70" dy="24" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1s" dur="0.25s" fill="freeze"/>⠀⠀⠀⣿⣿⠀⣿⣿⣿⣿⣿⠀⣿⣿⠀⠀⠀⠀</tspan>
-            <tspan x="70" dy="24" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.25s" fill="freeze"/>⠀⠀⠀⣿⣿⡀⠻⣿⣿⣿⠟⢀⣿⣿⠀⠀⠀⠀</tspan>
-            <tspan x="70" dy="24" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.25s" fill="freeze"/>⠀⠀⠀⠀⢿⣿⣦⣄⣀⣠⣴⣿⡿⠁⠀⠀⠀⠀</tspan>
-            <tspan x="70" dy="24" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.25s" fill="freeze"/>⠀⠀⠀⠀⠀⠙⠿⣿⣿⠿⠋⠀⠀⠀⠀⠀⠀⠀</tspan>
-            <tspan x="70" dy="24" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.25s" fill="freeze"/>⠀⠀⠀⠀[ cyber.nameer@profile ]⠀⠀⠀⠀</tspan>
-            <tspan x="70" dy="24" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2s" dur="0.25s" fill="freeze"/>⠀⠀⠀⠀⠀status: ONLINE // READY⠀⠀⠀⠀</tspan>
+            <tspan x="70" dy="0" opacity="0">⠀⠀⠀⠀⠀⣠⣤⣶⣾⣿⣷⣶⣤⣀⠀⠀⠀⠀⠀</tspan>
+            <tspan x="70" dy="24" opacity="0">⠀⠀⠀⠀⣰⣿⡿⠋⠉⠉⠉⠙⠻⣿⣦⠀⠀⠀⠀</tspan>
+            <tspan x="70" dy="24" opacity="0">⠀⠀⠀⠀⢠⣿⡟⠀⢀⣤⣤⣤⣄⠀⠹⣿⡆⠀⠀⠀</tspan>
+            <tspan x="70" dy="24" opacity="0">⠀⠀⠀⠀⣾⣿⠀⢠⣿⠟⠛⠻⣿⣧⠀⣿⣷⠀⠀⠀</tspan>
+            <tspan x="70" dy="24" opacity="0">⠀⠀⠀⠀⣿⣿⠀⢸⣿⣶⣶⣶⣿⡏⠀⣿⣿⠀⠀⠀</tspan>
+            <tspan x="70" dy="24" opacity="0">⠀⠀⠀⠀⢿⣿⡄⠘⢿⣤⣤⣤⡿⠃⢠⣿⡿⠀⠀⠀</tspan>
+            <tspan x="70" dy="24" opacity="0">⠀⠀⠀⠀⠈⢿⣿⣄⠀⠈⠉⠁⠀⣠⣿⡿⠁⠀⠀⠀</tspan>
+            <tspan x="70" dy="24" opacity="0">⠀⠀⠀⠀⠀⠀⠙⢿⣿⣶⣶⣶⣿⠿⠋⠀⠀⠀⠀⠀</tspan>
+            <tspan x="70" dy="24" opacity="0">⠀⠀⠀⠀[ nameer@github:~ ]⠀⠀⠀⠀⠀⠀</tspan>
+            <tspan x="70" dy="24" opacity="0">⠀⠀⠀⠀status: BUILDING AGENTS ▋⠀⠀⠀⠀</tspan>
           </text>
         </g>
       </g>

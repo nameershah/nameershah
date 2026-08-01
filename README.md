@@ -7,6 +7,21 @@
 
 <div align="center">
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nameershah/nameershah/main/dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nameershah/nameershah/main/light.svg">
+  <img
+    alt="Muhammad Nameer Shah Profile Banner"
+    src="https://raw.githubusercontent.com/nameershah/nameershah/main/light.svg"
+    width="100%">
+</picture>
+
+<br><br>
+
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:58A6FF&height=140&section=header&text=Muhammad%20Nameer%20Shah&fontSize=36&fontColor=FFFFFF&fontAlignY=45"

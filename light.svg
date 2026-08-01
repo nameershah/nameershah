@@ -27,7 +27,7 @@
   <rect x="380" y="210" width="560" height="3" fill="url(#accent)"/>
 
   <text x="380" y="255" font-size="22" font-family="Segoe UI, Inter, Arial, sans-serif" fill="#334155">Focus: Agentic AI Systems, RAG, Multimodal AI Applications</text>
-  <text x="380" y="292" font-size="21" font-family="Segoe UI, Inter, Arial, sans-serif" fill="#475569">Education: Computer Science</text>
-  <text x="380" y="326" font-size="21" font-family="Segoe UI, Inter, Arial, sans-serif" fill="#475569">Location: Pakistan</text>
+  <text x="380" y="292" font-size="21" font-family="Segoe UI, Inter, Arial, sans-serif" fill="#475569">LinkedIn: linkedin.com/in/muhammad-nameer-shah</text>
+  <text x="380" y="326" font-size="21" font-family="Segoe UI, Inter, Arial, sans-serif" fill="#475569">Hugging Face: huggingface.co/muhammadnameershah</text>
   <text x="380" y="360" font-size="21" font-family="Segoe UI, Inter, Arial, sans-serif" fill="#475569">Portfolio: nameershah.github.io/portfolio</text>
 </svg>

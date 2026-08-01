@@ -10,13 +10,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nameershah/nameershah/main/dark.svg">
+    srcset="./dark.svg">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nameershah/nameershah/main/light.svg">
+    srcset="./light.svg">
   <img
     alt="Muhammad Nameer Shah Profile Banner"
-    src="https://raw.githubusercontent.com/nameershah/nameershah/main/light.svg"
+    src="./light.svg"
     width="100%">
 </picture>
 

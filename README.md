@@ -22,16 +22,7 @@
 
 <br><br>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:58A6FF&height=140&section=header&text=Muhammad%20Nameer%20Shah&fontSize=36&fontColor=FFFFFF&fontAlignY=45"
-/>
-
 <h3>AI Engineer | Agentic & Multimodal Systems</h3>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Agentic+AI+Systems;Retrieval-Augmented+Generation+(RAG);Multimodal+AI+Applications;Building+Intelligent+AI+Agents"
-/>
 
 <br><br>
 

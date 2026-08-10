@@ -8,7 +8,7 @@
 
 <h3>AI Engineer | Agentic & Multimodal Systems</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Agentic+AI+Systems;RAG+and+Multimodal+Pipelines;Google+DeepMind+Vibe+Code+Winner;Building+on+Arc+Network" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Agentic+AI+Systems;RAG+and+Multimodal+Pipelines;Building+on+Arc+Network" />
 
 <br/><br/>
 

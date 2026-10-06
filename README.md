@@ -1,6 +1,4 @@
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=nameershah&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=nameershah&label=PROFILE+VIEWS&color=58A6FF&style=flat)
 
 <div align="center">
 
